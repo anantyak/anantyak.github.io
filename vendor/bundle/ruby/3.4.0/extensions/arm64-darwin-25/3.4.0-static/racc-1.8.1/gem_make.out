@@ -1,0 +1,19 @@
+current directory: /Users/anantyakasturi/anantyak.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/anantyakasturi/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/anantyakasturi/anantyak.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251021-64649-e5cj8c sitelibdir\=./.gem.20251021-64649-e5cj8c clean
+
+current directory: /Users/anantyakasturi/anantyak.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251021-64649-e5cj8c sitelibdir\=./.gem.20251021-64649-e5cj8c
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/opt/gdbm/lib' not found
+
+current directory: /Users/anantyakasturi/anantyak.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251021-64649-e5cj8c sitelibdir\=./.gem.20251021-64649-e5cj8c install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251021-64649-e5cj8c/racc
+
+current directory: /Users/anantyakasturi/anantyak.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251021-64649-e5cj8c sitelibdir\=./.gem.20251021-64649-e5cj8c clean

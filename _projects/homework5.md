@@ -3,10 +3,10 @@ name: Homework 5
 tools: [Python, Altair, VegaLite]
 description: Homework 5 Submission
 custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
 
 

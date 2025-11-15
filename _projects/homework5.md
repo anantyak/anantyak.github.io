@@ -1,7 +1,7 @@
 ---
 name: Homework 5
 tools: [Python, Altair, VegaLite]
-description: Homework 5 Submission
+description: Submission for HWK 5
 custom_js:
   - vega.min
   - vega-lite.min
@@ -27,5 +27,5 @@ This plot shows the interactive sightings over time by each region. The interact
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/anantyak/anantyak.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/anantyak/anantyak.github.io/blob/master/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>

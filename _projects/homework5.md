@@ -1,7 +1,7 @@
 ---
-name: Homework 5
+name: Homework 5 Submission
 tools: [Python, Altair, VegaLite]
-description: Submission for HWK 5
+description: My Submission for HWK 5
 custom_js:
   - vega.min
   - vega-lite.min

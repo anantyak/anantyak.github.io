@@ -1,8 +1,7 @@
 ---
-name: Vega Lite Example Project
-tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+name: Anantya's Homework 5 Submission
+tools: [Python, Altair, VegaLite]
+description: My submission for homework 5!
 custom_js:
   - vega.min
   - vega-lite.min

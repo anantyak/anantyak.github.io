@@ -2,7 +2,7 @@
 name: Hwk 5 test submission
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+description: This is a test submission for homework 5!
 custom_js:
   - vega.min
   - vega-lite.min

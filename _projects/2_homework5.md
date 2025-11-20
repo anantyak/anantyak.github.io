@@ -1,5 +1,5 @@
 ---
-name: Anantya's Homework 5 Submission
+name: Homework 5 Submission - Anantya
 tools: [Python, Altair, VegaLite]
 description: My submission for homework 5!
 custom_js:

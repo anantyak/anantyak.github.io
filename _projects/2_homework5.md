@@ -1,7 +1,7 @@
 ---
 name: Homework 5 Submission - Anantya
 tools: [Python, Altair, VegaLite]
-description: My submission for homework 5!
+description: Anantya's submission for homework 5!
 custom_js:
   - vega.min
   - vega-lite.min
